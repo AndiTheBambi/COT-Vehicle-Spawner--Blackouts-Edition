@@ -1,0 +1,31 @@
+{
+    "VehicleName": "vg7_baja_blue",
+    "DisplayName": "",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "vg7_baja_L_Door",
+        "vg7_baja_R_Door",
+        "vg7_baja_Hood_Plate_Blue",
+        "vg7_baja_Engine_Cover",
+        "vg7_baja_wheel",
+        "vg7_baja_wheel",
+        "vg7_baja_wheel",
+        "vg7_baja_wheel",
+        "vg7_baja_wheel",
+        "CanisterGasoline",
+        "CableReel",
+        "Spotlight",
+        "FirefighterAxe_Black",
+        "SKS_Black",
+        "BatteryCharger",
+        "WaterproofBag_White",
+        "Glock19"
+    ]
+}
